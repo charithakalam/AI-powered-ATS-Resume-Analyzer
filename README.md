@@ -18,7 +18,7 @@ It helps users understand how well their resume matches job requirements and ide
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 
@@ -34,7 +34,7 @@ It helps users understand how well their resume matches job requirements and ide
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 AI-powered-ATS-Resume-Analyzer/
@@ -69,7 +69,7 @@ npm start
 ```
 
 
-## 🗄️ Database
+## Database
 
 * MySQL Database: `ats_db`
 * Tables:
@@ -78,7 +78,7 @@ npm start
   * `ats_results`
 
 
-## 🔄 Workflow
+## Workflow
 
 1. User uploads resume
 2. Frontend sends data to backend
