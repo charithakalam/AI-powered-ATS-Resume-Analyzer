@@ -53,15 +53,12 @@ git clone https://github.com/your-username/AI-powered-ATS-Resume-Analyzer.git
 cd AI-powered-ATS-Resume-Analyzer
 ```
 
----
-
 ### 🔹 2. Backend Setup
 
 - Open the `backend` folder in IntelliJ IDEA  
 - Configure database in `application.properties`  
 - Run the Spring Boot application using the Run button ▶  
 
----
 
 ### 🔹 3. Frontend Setup
 
@@ -71,7 +68,6 @@ npm install
 npm start
 ```
 
----
 
 ## 🗄️ Database
 
@@ -81,7 +77,6 @@ npm start
   * `user`
   * `ats_results`
 
----
 
 ## 🔄 Workflow
 
@@ -91,4 +86,3 @@ npm start
 4. Results stored in MySQL
 5. Score & feedback returned to user
 
----
