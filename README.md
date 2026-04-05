@@ -5,8 +5,6 @@
 The **AI-Powered ATS Resume Analyzer** is a web application that evaluates resumes based on job descriptions using ATS (Applicant Tracking System) logic.
 It helps users understand how well their resume matches job requirements and identifies missing skills.
 
----
-
 ## Features
 
 * Resume Upload & Parsing
@@ -16,7 +14,6 @@ It helps users understand how well their resume matches job requirements and ide
 * Data Storage using MySQL
 * Real-time Processing
 
----
 
 ## Tech Stack
 
@@ -32,7 +29,6 @@ It helps users understand how well their resume matches job requirements and ide
 
 * MySQL
 
----
 
 ## Project Structure
 
@@ -42,7 +38,6 @@ AI-powered-ATS-Resume-Analyzer/
 ├── backend/    # Java application
 ```
 
----
 
 ## ⚙️ Setup Instructions
 
